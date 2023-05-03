@@ -1,0 +1,10 @@
+answer_to_Q1,answer_to_Q2,answer_to_Q3,answer_to_Q4,answer_to_Q5,respondent's_age,respondent's gender,respondent's occupation
+1,4,10,2,Y,45,Female,waiter
+3,3,8,1,N,23,Male,waiter
+2,5,8,3,N,36,Female,nurse
+3,4,10,2,Y,56,Female,Supermarket_manager
+2,2,9,2,N,28,Male,teacher
+1,1,7,1,N,44,Male,Driver
+2,2,5,1,N,24,Female,life-nurturer
+3,1,9,3,Y,22,Female,life-nurturer
+2,4,10,2,Y,24,Female,waiter
